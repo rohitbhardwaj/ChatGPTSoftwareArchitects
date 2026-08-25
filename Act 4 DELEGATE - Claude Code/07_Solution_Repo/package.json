@@ -1,0 +1,1 @@
+{"name":"shopsmart-order-api-starter","version":"1.0.0","type":"commonjs","scripts":{"test":"node tests/orderService.test.js"},"dependencies":{},"devDependencies":{}}
